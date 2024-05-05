@@ -1,0 +1,336 @@
+.fhone{
+    position: relative;
+    top: -8px; left: 200px;
+    height: 480px;
+    width: 1440px;
+}
+.logo{
+    position: relative;
+    top: -180px; left: -590px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    top: -160px; left: 560px;
+    color: hsl(210, 10%, 33%);
+    display: inline-block;
+}
+h4{
+    position: relative;
+    top: -90px; left: -135px;
+    text-align: center;
+    font-size: 22px;
+    color:  hsl(201, 11%, 66%);
+    display: inline-block;
+}
+button{
+    border-radius: 30px;
+    height: 50px;
+    width: 220px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+}
+button:hover{
+    cursor: pointer;
+}
+.but1{
+    position: relative;
+    top: -10px;left: -720px;
+    background-color: hsl(171, 66%, 44%);
+    color: whitesmoke;
+}
+.but2{
+    position: relative;
+    top: -10px; left: -700px;
+    color: whitesmoke;
+    background-color: hsl(233, 100%, 69%);
+}
+h2{
+    position: relative;
+    top: 40px; left: 680px;
+    font-size: 37px;
+    color: hsl(210, 10%, 33%);
+    display: inline-block;
+}
+.clip{
+    display: inline-block;
+}
+p{
+    position: relative;
+    top: 130px; left: 115px;
+    text-align: center;
+    font-size: 20px;
+    color: hsl(201, 11%, 66%);
+}
+
+.di{
+    position: relative;
+    top: 175px; left: 190px;
+    width: 1200px;
+    height: 580px;
+    padding: 0px 0px 0px 0px;
+    display: inline-block;
+}
+
+.computer{
+    position: relative;
+    top: 0px; left: -45px;
+}
+.men{
+    display: inline-block;
+    position: relative;
+    top: -320px; left: 30px;
+}
+
+search{
+    position: relative;
+    top: 30px; left: 0px;
+    font-size: 23px;
+    height: 30px;
+    font-style: normal;
+    color: hsl(210, 10%, 33%);
+}
+.serch{
+    position: relative;
+    top: 0px; left: 0px;
+    text-align: start;
+    font: 15px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 270px;
+    color: hsl(201, 11%, 66%);
+}
+.se{
+    position: relative;
+    top: 0px; left: -12px;
+    width: 330px;
+    font: 15px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: hsl(201, 11%, 66%);
+}
+sync{
+    position: relative;
+    top: 165px; left: 0px;
+    font-size: 23px;
+    font-style: normal;
+    color: hsl(210, 10%, 33%);
+}
+.sy{
+    position: relative;
+    top: -5px; left: 0px;
+    width: 300px;
+    text-align: start;
+    font: 15px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.nc{
+    position: relative;
+    top: -5px; left: 0px;
+    text-align: start;
+    font: 15px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+history{
+    position: relative;
+    top: 210px; left: 0px;
+    font-size: 23px;
+    font-style: normal;
+    color: hsl(210, 10%, 33%);
+}
+.his{
+    position: relative;
+    top: 0px; left: 0px;
+    width: 300px;
+    text-align: start;
+    font: 15px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.tor{
+    position: relative;
+    top: 0px; left: 0px;
+    text-align: start;
+    font: 15px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.vv{
+    display: inline-block;
+    position: relative;
+    top: 220px; left: 500px;
+ }
+.hh{
+    display: inline;
+    position: relative;
+    top: 90px; left: 230px;
+}
+.wether{
+    position: relative;
+    top: 95px; left: 0px;
+}
+.pone{
+    display: block;
+    position: relative;
+    top: 190px; left: 5px;
+}
+.wo{
+    position: relative;
+    top: 120px; left: 250px;
+    display: inline-block;
+}
+.rk{
+    position: relative;
+    top: 95px; left: 10px;
+}
+
+.image{
+    position: relative;
+    top: 345px; left: 520px;
+    height: 250px;
+    width: 1300px;
+}
+
+.black{
+    position: relative;
+    top: 0px; left: 60px;
+}
+name{
+    font-size: 25px;
+    color: hsl(210, 10%, 33%);
+}
+.nam1{
+    position: relative;
+    top: 70px; left: -50px;
+}
+.bla{
+    position: relative;
+    top: 155px; left: -285px;
+    font-size: 17px;
+    display: inline-block;
+}
+.text{
+    position: relative;
+    top: -5px; left: -100px;
+}
+.nam2{
+    position: relative;
+    top: 68px; left: -215px;
+}
+.tex{
+    position: relative;
+    top: 135px; left: -470px;
+    font-size: 17px;
+    display: inline-block;
+}
+
+.preview{
+    position: relative;
+    top: -5px; left: -300px;
+}
+.nam3{
+    position: relative;
+    top: 70px; left: -400px;
+}
+.prev{
+    position: relative;
+    top: 62px; left: 640px;
+    font-size: 17px;
+    display: inline-block;
+}
+.logos{
+    position: relative;
+    top: 450px;left: 430px;
+    display: inline;
+}
+.google{
+    position: relative;
+    top: 0px; left: 0px;
+}
+.ibm{
+    position: relative;
+    top: 0px; left: 90px;
+}
+.microsoft{
+    position: relative;
+    top: 0px; left: 160px;
+}
+.hp{
+    position: relative;
+    top: 0px; left: 240px;
+}
+.vector{
+    position: relative;
+    top: 0px; left: 320px;
+}
+.iaM{
+    display: inline-block;
+    position: relative;
+    top: 150px; left: -480px;
+}
+.free{
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    top: 125px; left: 180px;
+}
+.but3{
+    position: relative;
+    top: 220px; left: -385px;
+    background-color: hsl(171, 66%, 44%);
+    color: whitesmoke;
+}
+.but4{
+    position: relative;
+    top: 220px; left: -375px;
+    color: whitesmoke;
+    background-color: hsl(233, 100%, 69%);
+}
+.finish{
+  border: 1px solid hsl(201, 22%, 90%);
+  background-color: hsl(202, 22%, 90%);
+  height: 100px;
+  margin: 20px;
+  padding: 20px;
+  width: 1861px;
+  position: relative;
+  top: 775px; left: -28px;
+}
+.lo{
+    position: relative;
+    top: 20px;left: 380px;
+    height: 60px;
+}
+.faq{
+    color: hsl(0, 0%, 0%);
+    position: relative;
+    top: -20px; left: 520px;
+}
+a:hover{
+    cursor: pointer;
+    color: hsl(171, 66%, 44%);
+}
+.us{
+    position: relative;
+    top: 20px; left: 480px;
+}
+.policy{
+    position: relative;
+    top: -20px; left: 590px;
+}
+.kit{
+    position: relative;
+    top: 20px; left: 492px;
+}
+.install{
+    position: relative;
+    top: -20px; left: 620px;
+}
+.fac{
+    position: relative;
+    top: 7px; left: 950px;
+}
+logo:hover {
+    cursor: pointer;
+    color: hsl(171, 66%, 44%);
+}
+.twit{
+    position: relative;
+    top: 5px; left: 970px;
+}
+.insta{
+    position: relative;
+    top: 7px; left: 990px;
+}
